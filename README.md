@@ -345,28 +345,6 @@ DELETE /repos/{owner}/{repo}
 
 ---
 
-# 🐧 Parrot OS
-
-На **Parrot OS** запуск максимально простий:
-
-```bash
-python3 delete_all_repos.py
-```
-
-Якщо використовується virtual environment:
-
-```bash
-source myenv/bin/activate
-```
-
-потім:
-
-```bash
-python3 delete_all_repos.py
-```
-
----
-
 # 🧪 Приклад
 
 У тебе є:
